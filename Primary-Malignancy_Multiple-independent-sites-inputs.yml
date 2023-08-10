@@ -1,0 +1,18 @@
+potentialCases:
+  class: File
+  path: replaceMe.csv
+inputModule1:
+  class: File
+  path: python/read-potential-cases.py
+inputModule2:
+  class: File
+  path: python/primary-malignancy_multiple-independent-sites-neoplasm---primary.py
+inputModule3:
+  class: File
+  path: python/primary-malignancy_multiple-independent-sites---primary.py
+inputModule4:
+  class: File
+  path: python/malignant-neoplasms-independent-multiple-primary-malignancy_multiple-independent-sites-sites---secondary.py
+inputModule5:
+  class: File
+  path: python/output-cases.py
